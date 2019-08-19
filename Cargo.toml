@@ -1,0 +1,8 @@
+[package]
+name = "ctftools"
+version = "0.0.1"
+authors = ["Harry Lee Chak Chiu"]
+edition = "2018"
+
+[dependencies]
+log = "0.4.8"
